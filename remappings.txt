@@ -1,0 +1,4 @@
+@openzeppelin/contracts=lib/openzeppelin-contracts/contracts/
+@aave-v3-core/contracts=lib/aave-v3-core/contracts/
+@std=lib/forge-std/src/
+forge-std/=lib/forge-std/src/
